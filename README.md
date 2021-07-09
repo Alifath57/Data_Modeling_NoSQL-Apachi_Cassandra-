@@ -17,8 +17,7 @@ The image below shows the denormalized dataset:
 ![](Pics/image_event_datafile_new.jpg)
 
 ### Instructions
-- transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
-- Transfer the CSV files from **event_data** to create a streamlined CSV file *event_datafile_new.csv* to model and insert data into Apache Cassandra tables.
+- Transfer the CSV files from **event_data** to create a streamlined CSV file **event_datafile_new.csv** to model and insert data into Apache Cassandra tables.
 - Create database connection to Cassandra 
 - Create keyspace in Cassandra 
 - Creates the 3 tables designed to run the queries
