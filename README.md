@@ -14,7 +14,7 @@ Here are examples of filepaths to two files in the dataset:
 
 ## Dataset after denormalization that will be used for Apache Casssandra tables
 The image below shows the denormalized dataset:
-![](Pics/image_event_datafile.jpg)
+![](Pics/image_event_datafile_new.jpg)
 
 ### Questions
 From this data, 3 tables were created specifically to answer the following questions (queries):  
