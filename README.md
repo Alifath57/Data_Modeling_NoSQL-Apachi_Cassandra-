@@ -1,7 +1,7 @@
 # NoSQL Data Modeling with Apache Cassandra
 > by Ali Fathalian, 8 July 2021
 
-![](images/cassandra.png)
+![](Pics/cassandra.png)
 
 ## Project
 In this project data coming from audio streaming company called Sparkify has been modeled with Apache Cassandra. They have raw CSV metadata but no easy way to query the data.
@@ -14,7 +14,7 @@ Here are examples of filepaths to two files in the dataset:
 
 ## Dataset after denormalization that will be used for Apache Casssandra tables
 The image below shows the denormalized dataset:
-![](images/image_event_datafile.jpg)
+![](Pics/image_event_datafile.jpg)
 
 ### Questions
 From this data, 3 tables were created specifically to answer the following questions (queries):  
